@@ -28,7 +28,7 @@ CloudDriveExplorerAPI é um projeto PHP baseado no framework Limonade que permit
 
 ## Documentação da API
 
-Para obter mais detalhes sobre os endpoints disponíveis e suas funcionalidades, acesse a documentação da API através do endpoint:
+Para obter mais detalhes sobre os endpoints disponíveis e suas funcionalidades, acesse a documentação da API através do endpoint: `http:\\localhost:8000\documentation`
 
 ## Contribuição
 
