@@ -2,13 +2,12 @@
 
 class Ftp
 {
-    # Run the limonade app
 
     // Define FTP configuration
     protected $config = [
-        'host' => '89.117.188.24',
-        'username' => 'u763002564.dev',
-        'password' => 'U763002564.dev'
+        'host' => 'your_ftp_server_address',
+        'username' => 'your_ftp_server_username',
+        'password' => 'your_ftp_server_password'
     ];
     public $connection = null;
 
